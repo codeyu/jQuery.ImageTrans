@@ -15,7 +15,7 @@ This plugin through filters (IE), ccs3 and canvas to achieve picture rotate, zoo
 **Browser Support**：   
 
 * Chrome: (Current - 1) and Current   
-* Edge: (Current -˙¥¨≥t 1) and Current   
+* Edge: (Current - 1) and Current   
 * Firefox: (Current - 1) and Current   
 * Internet Explorer: 9+   
 * Safari: (Current - 1) and Current   
