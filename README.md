@@ -1,7 +1,7 @@
 ## jQuery.ImageTrans.js
-jQuery plugin to rotate, zoom, transform images.
+jQuery plugin to rotate, zoom, transform images. Fork from [图片(旋转/缩放/翻转)变换效果(ccs3/滤镜/canvas)](http://www.cnblogs.com/cloudgamer/archive/2010/08/16/ImageTrans.html)
 
-[demo](http://codeyu.com/jQuery.ImageTrans/)
+[**DEMO**](http://codeyu.com/jQuery.ImageTrans/)
 
 This plugin through filters (IE), ccs3 and canvas to achieve picture rotate, zoom, and flip the transform effect, can be used as an image viewer.
 
